@@ -1,0 +1,47 @@
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+.blue{
+    color: blue;
+}
+.cta-wrapper {
+    max-width: 100%;
+    background: #eee;
+    text-align: center;
+    padding: 30px 20px;
+}
+.cta-wrapper .cta-button {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    box-shadow :none;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+
+.cta-wrapper .cta-button:hover,
+.cta-wrapper .cta-button:focus {
+    color: #fff;
+    box-shadow :none;
+    background-color: #39b3d7;
+    border-color: #269abc;
+    outline: none;
+}
